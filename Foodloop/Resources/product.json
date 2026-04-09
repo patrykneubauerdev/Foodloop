@@ -1,0 +1,102 @@
+[
+  {
+    "id": 101,
+    "imageName": "cheeseburger",
+    "price": 22.99,
+    "description": "cheeseburger-description",
+    "isVegan": false,
+    "isSpicy": false,
+    "isBestseller": false
+  },
+  {
+    "id": 102,
+    "imageName": "chicken-bucket",
+    "price": 42.99,
+    "description": "chicken-bucket-description",
+    "isVegan": false,
+    "isSpicy": true,
+    "isBestseller": true
+  },
+  {
+    "id": 103,
+    "imageName": "cola",
+    "price": 6.49,
+    "description": "cola-description",
+    "isVegan": true,
+    "isSpicy": false,
+    "isBestseller": false
+  },
+  {
+    "id": 112,
+    "imageName": "cookies",
+    "price": 7.49,
+    "description": "cookies-description",
+    "isVegan": false,
+    "isSpicy": false,
+    "isBestseller": false
+  },
+  {
+    "id": 104,
+    "imageName": "double-cheeseburger",
+    "price": 29.49,
+    "description": "double-cheeseburger-description",
+    "isVegan": false,
+    "isSpicy": false,
+    "isBestseller": true
+  },
+  {
+    "id": 105,
+    "imageName": "fries",
+    "price": 9.49,
+    "description": "fries-description",
+    "isVegan": true,
+    "isSpicy": false,
+    "isBestseller": false
+  },
+  {
+    "id": 106,
+    "imageName": "giant-cheeseburger",
+    "price": 36.99,
+    "description": "giant-cheeseburger-description",
+    "calories": 456,
+    "isVegan": false,
+    "isSpicy": false,
+    "isBestseller": false
+  },
+  {
+    "id": 107,
+    "imageName": "kebab",
+    "price": 19.99,
+    "description": "kebab-description",
+    "isVegan": false,
+    "isSpicy": true,
+    "isBestseller": true
+  },
+  {
+    "id": 108,
+    "imageName": "milkshake",
+    "price": 11.49,
+    "description": "milkshake-description",
+    "isVegan": false,
+    "isSpicy": false,
+    "isBestseller": false
+  },
+  {
+    "id": 110,
+    "imageName": "pizza-pepperoni",
+    "price": 28.49,
+    "description": "pizza-pepperoni-description",
+    "isVegan": false,
+    "isSpicy": false,
+    "isBestseller": false
+  },
+  {
+    "id": 111,
+    "imageName": "taco",
+    "price": 17.49,
+    "description": "taco-description",
+    "isVegan": false,
+    "isSpicy": true,
+    "isBestseller": false
+  }
+]
