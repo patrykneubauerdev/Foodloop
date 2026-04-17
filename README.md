@@ -2,13 +2,25 @@
 Test description
 
 <p align="center">
-  [<img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-1.svg" width="38%" draggable="false"/>](https://github.com/patrykneubauerdev/Foodloop)
+  <a href="https://github.com/patrykneubauerdev/Foodloop" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-1.svg" width="38%" draggable="false" style="border:0; display:inline-block;"/>
+  </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-2..svg" width="38%" draggable="false"/>](https://github.com/patrykneubauerdev/Foodloop)
+
+  <a href="https://github.com/patrykneubauerdev/Foodloop" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-2..svg" width="38%" draggable="false" style="border:0; display:inline-block;"/>
+  </a>
 </p>
 
 <p align="center">
-  [<img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-3.svg" width="38%" draggable="false"/>](https://github.com/patrykneubauerdev/Foodloop)
+  <a href="https://github.com/patrykneubauerdev/Foodloop" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-3.svg" width="38%" draggable="false" style="border:0; display:inline-block;"/>
+  </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-1.svg" width="38%" draggable="false"/>](https://github.com/patrykneubauerdev/Foodloop)
+
+  <a href="https://github.com/patrykneubauerdev/Foodloop" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-1.svg" width="38%" draggable="false" style="border:0; display:inline-block;"/>
+  </a>
 </p>
