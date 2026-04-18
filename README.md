@@ -1,13 +1,21 @@
-# Foodloop
-Test description
+<p align="center">
+<img src="foodloop-repo-assets/iphone-screen-foodloop-01.png" width="230" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-05.gif" width="228" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-02.png" width="230" title="Foodloop">
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-1.svg" width="38%" draggable="false"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-2.svg" width="38%" draggable="false"/>
+<img src="foodloop-repo-assets/iphone-screen-foodloop-03.png" width="230" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-06.gif" width="228" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-04.png" width="230" title="Foodloop">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-3.svg" width="38%" draggable="false"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/patrykneubauerdev/Foodloop/main/repoAssets/foodloop-screen-1.svg" width="38%" draggable="false"/>
-</p>
+
+# Foodloop
+
+Foodloop is an iOS app built entirely in Swift with no external dependencies. The UI is clean and modern, animates smoothly, and is easy to navigate — and the code is clean and easy to read.
+
+## Usage
+
+Feel free to clone the repo and explore the code. Open the `.xcodeproj` file in Xcode and build to a simulator or device running iOS 16+.
+
+## Contact Info:
+- Email: your@email.com
+- LinkedIn: [yourprofile](https://www.linkedin.com/in/yourprofile/)
+
+# Thanks for stopping by!
