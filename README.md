@@ -1,9 +1,9 @@
 <p align="center">
-<img src="foodloop-repo-assets/iphone-screen-foodloop-06.gif" width="230" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-01.png" width="228" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-02.png" width="230" title="Foodloop">
+<img src="foodloop-repo-assets/iphone-screen-foodloop-06.gif" width="280" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-01.png" width="280" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-02.png" width="280" title="Foodloop">
 </p>
 
 <p align="center">
-<img src="foodloop-repo-assets/iphone-screen-foodloop-05.gif" width="230" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-03.png" width="228" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-04.png" width="230" title="Foodloop">
+<img src="foodloop-repo-assets/iphone-screen-foodloop-05.gif" width="280" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-03.png" width="280" title="Foodloop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="foodloop-repo-assets/iphone-screen-foodloop-04.png" width="280" title="Foodloop">
 </p>
 
 # Foodloop
