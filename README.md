@@ -1,4 +1,4 @@
-# 🍽 Foodloop
+# <img src="foodloop-repo-assets/foodloop-icon-repo.png" width="48" style="border-radius:12px"> Foodloop
 
 > **Restaurant ordering app for iOS** - browse the menu, pick your table, place your order. Built entirely in Swift with zero external dependencies.
 
