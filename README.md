@@ -18,10 +18,10 @@ In production, the order would go straight to the kitchen. Here it fires off to 
 ## How it works
 
 ```
-Browse menu  →  Choose table  →  Add to cart  →  Place order  →  httpbin.org (→ kitchen IRL)
-                                                                        ↓
-                                                                   SwiftData
-                                                              (order history saved)
+1. Browse the menu & choose your table
+2. Add items to cart
+3. Place order → sent to **httpbin.org** (stand-in for a real kitchen endpoint)
+4. Order saved locally via **SwiftData** — persists across app restarts
 ```
 
 Menu items, prices, and images are loaded from a local **`products.json`** file - no backend required. The app is fully localized in **🇬🇧 English** and **🇵🇱 Polish** via `Localizable.xcstrings`. Switch your device language to see it in action.
