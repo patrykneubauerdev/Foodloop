@@ -63,7 +63,7 @@ Menu items, prices, and images are loaded from a local **`products.json`** file 
 | **Swift** | Entire codebase - no Objective-C, no bridges |
 | **SwiftUI** | Declarative UI with smooth, native animations |
 | **SwiftData** | On-device persistence for order history - survives app restarts |
-| **URLSession + REST** | Native HTTP networking, no third-party SDK needed |
+| **URLSession / URLRequest + async/await** | Native HTTP networking with modern Swift concurrency - no third-party SDK needed |
 | **httpbin.org** | Echo API used as a stand-in for a real kitchen endpoint |
 | **Local JSON (`product.json`)** | Menu items, prices, and images - no backend required |
 | **`Localizable.xcstrings`** | Full localization in 🇬🇧 English and 🇵🇱 Polish |
