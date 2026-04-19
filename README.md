@@ -1,4 +1,4 @@
-# <img src="foodloop-repo-assets/foodloop-icon-repo.png" width="48" style="border-radius:12px"> Foodloop
+<h1 align="left"><img src="foodloop-repo-assets/foodloop-icon-repo.png" width="48" valign="middle"> Foodloop</h1>
 
 > **Restaurant ordering app for iOS** - browse the menu, pick your table, place your order. Built entirely in Swift with zero external dependencies.
 
