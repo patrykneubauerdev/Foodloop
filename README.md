@@ -65,7 +65,7 @@ Menu items, prices, and images are loaded from a local **`products.json`** file 
 | **SwiftData** | On-device persistence for order history - survives app restarts |
 | **URLSession + REST** | Native HTTP networking, no third-party SDK needed |
 | **httpbin.org** | Echo API used as a stand-in for a real kitchen endpoint |
-| **Local JSON (`products.json`)** | Menu items, prices, and images - no backend required |
+| **Local JSON (`product.json`)** | Menu items, prices, and images - no backend required |
 | **`Localizable.xcstrings`** | Full localization in 🇬🇧 English and 🇵🇱 Polish |
 | **MVVM architecture** | Clean separation of views, view models, and models |
 
