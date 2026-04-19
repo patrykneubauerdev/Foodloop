@@ -1,6 +1,6 @@
 # 🍽 Foodloop
 
-> **Restaurant ordering app for iOS** — browse the menu, pick your table, place your order. Built entirely in Swift with zero external dependencies.
+> **Restaurant ordering app for iOS** - browse the menu, pick your table, place your order. Built entirely in Swift with zero external dependencies.
 
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
@@ -9,9 +9,9 @@
 
 ## About
 
-Foodloop simulates the experience of ordering food at a restaurant — entirely from your phone. You walk in, sit down at a table, open the app, choose your **table number**, browse the menu, and place your order. **You pay when the waiter comes** — just like in a real restaurant.
+Foodloop simulates the experience of ordering food at a restaurant - entirely from your phone. You walk in, sit down at a table, open the app, choose your **table number**, browse the menu, and place your order. **You pay when the waiter comes** - just like in a real restaurant.
 
-In production, the order would go straight to the kitchen. Here it fires off to **[httpbin.org](https://httpbin.org)**, which echoes the request payload back — so you can open the app in Xcode, place an order, and see the **full JSON logged in the console** in real time.
+In production, the order would go straight to the kitchen. Here it fires off to **[httpbin.org](https://httpbin.org)**, which echoes the request payload back - so you can open the app in Xcode, place an order, and see the **full JSON logged in the console** in real time.
 
 ---
 
@@ -24,7 +24,7 @@ Browse menu  →  Choose table  →  Add to cart  →  Place order  →  httpbin
                                                               (order history saved)
 ```
 
-Menu items, prices, and images are loaded from a local **`products.json`** file — no backend required. The app is fully localized in **🇬🇧 English** and **🇵🇱 Polish** via `Localizable.xcstrings`. Switch your device language to see it in action.
+Menu items, prices, and images are loaded from a local **`products.json`** file - no backend required. The app is fully localized in **🇬🇧 English** and **🇵🇱 Polish** via `Localizable.xcstrings`. Switch your device language to see it in action.
 
 ---
 
@@ -50,9 +50,9 @@ Menu items, prices, and images are loaded from a local **`products.json`** file 
 
 | Loading animation | Order confirmed | Order history & details |
 |:-:|:-:|:-:|
-| Subtle animation while the order is being sent | Success screen confirming the order was placed | All past orders saved via SwiftData — tap for full details |
+| Subtle animation while the order is being sent | Success screen confirming the order was placed | All past orders saved via SwiftData - tap for full details |
 
-> 💡 **To verify the order was actually sent** — clone the repo, build in Xcode, place an order, and check the console. The full JSON payload is logged from httpbin.org's response.
+> 💡 **To verify the order was actually sent** - clone the repo, build in Xcode, place an order, and check the console. The full JSON payload is logged from httpbin.org's response.
 
 ---
 
@@ -60,12 +60,12 @@ Menu items, prices, and images are loaded from a local **`products.json`** file 
 
 | Technology | Role |
 |---|---|
-| **Swift** | Entire codebase — no Objective-C, no bridges |
+| **Swift** | Entire codebase - no Objective-C, no bridges |
 | **SwiftUI** | Declarative UI with smooth, native animations |
-| **SwiftData** | On-device persistence for order history — survives app restarts |
+| **SwiftData** | On-device persistence for order history - survives app restarts |
 | **URLSession + REST** | Native HTTP networking, no third-party SDK needed |
 | **httpbin.org** | Echo API used as a stand-in for a real kitchen endpoint |
-| **Local JSON (`products.json`)** | Menu items, prices, and images — no backend required |
+| **Local JSON (`products.json`)** | Menu items, prices, and images - no backend required |
 | **`Localizable.xcstrings`** | Full localization in 🇬🇧 English and 🇵🇱 Polish |
 | **MVVM architecture** | Clean separation of views, view models, and models |
 
@@ -75,9 +75,9 @@ Menu items, prices, and images are loaded from a local **`products.json`** file 
 
 1. **Clone** the repository
 2. Open **`Foodloop.xcodeproj`** in Xcode
-3. Build and run on a simulator or device running **iOS 16+**
+3. Build and run on a simulator or device running **iOS 26+**
 4. Browse the menu, pick a table, add items, and tap **Place order**
-5. Open the **Xcode console** — the full order JSON will be logged from httpbin.org's response
+5. Open the **Xcode console** - the full order JSON will be logged from httpbin.org's response
 
 > No API keys. No packages to install. No setup. Just build and run.
 
