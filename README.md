@@ -2,11 +2,8 @@
 
 > **Restaurant ordering app for iOS** — browse the menu, pick your table, place your order. Built entirely in Swift with zero external dependencies.
 
-![Swift](https://img.shields.io/badge/Swift-5.9-F05138?style=flat&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-16%2B-0A84FF?style=flat&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-%E2%9C%93-blue?style=flat)
-![SwiftData](https://img.shields.io/badge/SwiftData-%E2%9C%93-purple?style=flat)
-![Dependencies](https://img.shields.io/badge/dependencies-zero-brightgreen?style=flat)
+[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 
 ---
 
@@ -63,7 +60,7 @@ Menu items, prices, and images are loaded from a local **`products.json`** file 
 
 | Technology | Role |
 |---|---|
-| **Swift 5.9** | Entire codebase — no Objective-C, no bridges |
+| **Swift** | Entire codebase — no Objective-C, no bridges |
 | **SwiftUI** | Declarative UI with smooth, native animations |
 | **SwiftData** | On-device persistence for order history — survives app restarts |
 | **URLSession + REST** | Native HTTP networking, no third-party SDK needed |
