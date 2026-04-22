@@ -85,6 +85,8 @@ Menu items, prices, and images are loaded from a local **`products.json`** file 
 
 ✉️ [patrykneubauerdev@gmail.com](mailto:patrykneubauerdev@gmail.com)
 
+💼 [linkedin.com/in/patryk-neubauer](https://www.linkedin.com/in/patryk-neubauer)
+
 ---
 
 *Thanks for stopping by! 👋*
